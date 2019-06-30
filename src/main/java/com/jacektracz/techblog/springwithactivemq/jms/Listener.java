@@ -1,4 +1,4 @@
-package com.devglan.jms;
+package com.jacektracz.techblog.springwithactivemq.jms;
 
 import com.google.gson.Gson;
 import org.springframework.jms.annotation.JmsListener;
